@@ -1,0 +1,28 @@
+# Abaqus generated files
+*.abq
+*.cae
+*.com
+*.dat
+*.inp
+*.ipm
+*.log
+*.mdl
+*.msg
+*.odb
+*.prt
+*.res
+*.sim
+*.sta
+*.stt
+*.023
+*.lck
+abaqus.rpy*
+
+# Demo outputs
+abaqus_heat_demo_output/
+
+# Python
+__pycache__/
+*.py[cod]
+
+*.rec
