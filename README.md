@@ -1,5 +1,7 @@
 # githubtest
 
+这是第二版。
+
 This repository starts with a minimal Abaqus 2024 Python example for learning a basic GitHub workflow with Codex.
 
 ## Abaqus 2024 heat-transfer demo
